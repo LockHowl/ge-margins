@@ -7,4 +7,4 @@ The prices can be adjusted with the side buttons and they are functionally ident
 These can then be manipulated to reach whatever tax deducted profit margins.
 Thank you, happy flipping!
 
-lockhowl.github.io/ge-margins
+https://lockhowl.github.io/ge-margins
