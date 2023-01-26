@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ge-margins/static/css/main.3684b8ff.css",
+    "main.js": "/ge-margins/static/js/main.05fee88c.js",
+    "static/js/787.4844d6fd.chunk.js": "/ge-margins/static/js/787.4844d6fd.chunk.js",
+    "static/media/RuneScape-Quill-8.ttf": "/ge-margins/static/media/RuneScape-Quill-8.589ae02aedef6e1b8366.ttf",
+    "static/media/RuneScape-Quill-8.otf": "/ge-margins/static/media/RuneScape-Quill-8.1c158bc5ef9e7e779426.otf",
+    "static/media/RuneScape-Plain-11.ttf": "/ge-margins/static/media/RuneScape-Plain-11.49781db6406187ae7664.ttf",
+    "static/media/RuneScape-Plain-11.otf": "/ge-margins/static/media/RuneScape-Plain-11.b1e989f50532fe6c68d7.otf",
+    "index.html": "/ge-margins/index.html",
+    "main.3684b8ff.css.map": "/ge-margins/static/css/main.3684b8ff.css.map",
+    "main.05fee88c.js.map": "/ge-margins/static/js/main.05fee88c.js.map",
+    "787.4844d6fd.chunk.js.map": "/ge-margins/static/js/787.4844d6fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3684b8ff.css",
+    "static/js/main.05fee88c.js"
+  ]
+}
