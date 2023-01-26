@@ -6,3 +6,5 @@ Type in the item's name (with correct casing). This fetches the item from the Gr
 The prices can be adjusted with the side buttons and they are functionally identical to GE button calculations. 
 These can then be manipulated to reach whatever tax deducted profit margins.
 Thank you, happy flipping!
+
+lockhowl.github.io/ge-margins
